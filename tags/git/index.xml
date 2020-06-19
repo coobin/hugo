@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Kay&#39;s Blog</title>
+    <link>https://coobin.men/tags/git/</link>
+    <description>Recent content in Git on Kay&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 05:58:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://coobin.men/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Reference</title>
+      <link>https://coobin.men/posts/git-reference/</link>
+      <pubDate>Sun, 19 Apr 2020 05:58:54 +0000</pubDate>
+      
+      <guid>https://coobin.men/posts/git-reference/</guid>
+      <description>User-friendly name that points to:  a commit SHA-1 hash another reference  known as a symbolic reference       Using references with Git commands  Use reference instead of SHA-1 hashes   Master  Master is the default name of the main branch in the repository   Branch label  Points to the most recent commit in the branch  The &amp;ldquo;tip of the branch&amp;rdquo;   Implemented as a reference  View local branch references in .</description>
+    </item>
+    
+  </channel>
+</rss>
