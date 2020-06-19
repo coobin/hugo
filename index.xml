@@ -6,50 +6,18 @@
     <description>Recent content on Kay&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:21:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 14:53:18 +0800</lastBuildDate>
     
 	<atom:link href="https://coobin.men/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>公司网络与电脑使用规范</title>
-      <link>https://coobin.men/posts/%E5%85%AC%E5%8F%B8%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83/</link>
-      <pubDate>Mon, 15 Jun 2020 00:21:05 +0800</pubDate>
+      <title>仓库方案</title>
+      <link>https://coobin.men/posts/company/%E4%BB%93%E5%BA%93%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Fri, 19 Jun 2020 14:53:18 +0800</pubDate>
       
-      <guid>https://coobin.men/posts/%E5%85%AC%E5%8F%B8%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83/</guid>
-      <description>一、总 则
-为进一步加强电脑管理，提高其使用效能，确保公司电脑的运行安全，特制定本制度。凡公司计算机的使用与管理，均须依此办理。从事计算机网络信息活动，必须遵守《计算机信息网络国际联网安全保护管理办法》的规定，应遵守国家法律、法规，加强信息安全教育。
-二、网络资源应用管理
-1、公司提供优良的网络环境，用于保障业务系统的正常运行和办公系统的正常运转，不得用作它用。
-2、公司员工上班时间内不得利用网络做与工作无关的操作。
-3、禁止利用公司网络资源进行与工作无关的网络下载、在线视频观看、彩票投注、股票购买等。
-4、禁止利用公司电脑及网络资源进行各类在线网络游戏（包括网页游戏）。
-5、使用公司网络资源时，如发现网络访问异常或访问非法网站，网络管理员可对下载电脑进行断网处理。
-6、禁止私自更改电脑网络信息，如IP地址，网关等。
-三、电脑使用安全
-1、凡涉及公司机密及含重要数据的文件、文档必须进行加密，且不可用如生日，电话号码等简单数字作为密码。
-2、工作电脑有事离开后必须进行锁定计算机，避免重要文件的失窃。
-3、对于接入互联网的电脑，使用人必须遵守“三不”原则，不知名的网站不进入，不知名的软件不安装，不知名的邮箱发送来的邮件不查看。
-4、如发现电脑感染病毒，必须在第一时间内断网，使用杀毒软件进行杀毒，并及时通报网络管理员。
-5、工作电脑不得安装与本职工作无关的软件。
-6、日常工作文档存放于非系统盘符（C盘）。
-7、使用任何存储设备时必须先进行病毒及木马的杀查，切保无危险时方可使用。
-8、工作电脑必须保持系统补丁、病毒库、软件补丁版本为最新版本。
-9、自带电脑接入公司网络需要申请（详见附则1）
-四、软件操作流程
-四**、附 则**
-1、个人电脑接入公司网络申请表。
-2、本规定由行政人事部负责解释。</description>
-    </item>
-    
-    <item>
-      <title>机房门禁方案</title>
-      <link>https://coobin.men/posts/%E6%9C%BA%E6%88%BF%E9%97%A8%E7%A6%81%E6%96%B9%E6%A1%88/</link>
-      <pubDate>Sun, 14 Jun 2020 22:50:30 +0800</pubDate>
-      
-      <guid>https://coobin.men/posts/%E6%9C%BA%E6%88%BF%E9%97%A8%E7%A6%81%E6%96%B9%E6%A1%88/</guid>
-      <description>需求 目前机房采用传统机械钥匙来管理，钥匙需要专人保管，并且每次借用钥匙都需要登记，流程繁琐且低效，权限管理不灵活。
-优点  安全性：  实时查看门禁状态； 临时授权； 异常开门警报 开门自动记录   易用性：  随时随地可授权 操作简单    身份识别模式  指纹识别：管理员拥有最高权限，可以操作临时授权等。 密码识别：需要进入机房的人员可以找管理员申请临时授权或者永久授权。  设备 预算1000，含安装；</description>
+      <guid>https://coobin.men/posts/company/%E4%BB%93%E5%BA%93%E6%96%B9%E6%A1%88/</guid>
+      <description>现状： 改造后 </description>
     </item>
     
     <item>
